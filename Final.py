@@ -12,6 +12,7 @@ class CurrencyConverter():
         if from_currency != 'USD':
             amount = float(amount) / float(self.currencies[from_currency])
         amount = round(float(amount) * float(self.currencies[to_currency]),4)
+        return amount
     def dropdown(self, every_currency):
         every_currency = self.currencies
         return every_currency
