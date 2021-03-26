@@ -1,6 +1,8 @@
 # currency-converter
 This project lets you convert between different currencies using an API.
 
+![Currency](/images/currency.png)
+
 ## Getting Started
 
 **Prerequisites**
