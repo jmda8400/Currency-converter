@@ -16,7 +16,17 @@ pip install numpy
 pip install matplotlib
 ```
 
+## Built With
+
+- [Numpy](https://numpy.org/) 
+- [Matplotlib](https://matplotlib.org/) 
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) 
+
 ## Resources
 >https://data-flair.training/blogs/currency-converter-python/
 
 >https://www.youtube.com/watch?v=YXPyB4XeYLA
+
+## Author
+
+- Juan Manuel Díaz Arbués
